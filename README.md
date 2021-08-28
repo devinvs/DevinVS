@@ -1,0 +1,3 @@
+- Hi, I’m @DevinVS
+- I'm currently studying Computer Science at RIT.
+- I’m interested in all things Rust and 3d Rendering.
