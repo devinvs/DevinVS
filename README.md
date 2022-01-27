@@ -1,3 +1,1 @@
-- Hi, I’m @DevinVS
-- I'm currently studying Computer Science at RIT.
-- I’m interested in all things Rust and 3d Rendering.
+RIT Student in love with graphics programming, rust, and jazz piano
