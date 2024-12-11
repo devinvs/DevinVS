@@ -1,1 +1,1 @@
-RIT Student in love with graphics programming, rust, and jazz piano
+what will it be today?
